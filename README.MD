@@ -1,5 +1,5 @@
-# exercicio de estrutura de dados valendo nota
-# não fiz a ultima questão
+# Exercicio de estrutura de dados valendo nota
+# Não fiz a ultima questão
 
 
 
